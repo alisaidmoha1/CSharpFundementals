@@ -1,0 +1,16 @@
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\Repository-Pattern-Challenge.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\Repository-Pattern-Challenge.pdb
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\RepositoryPattern_Repository-Challenge.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\RepositoryPattern_Repository-Challenge.pdb
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\obj\Debug\Repository-Pattern-Challenge.csproj.AssemblyReference.cache
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\obj\Debug\Repository-Pattern-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\obj\Debug\Repository-Pattern-Challenge.csproj.CopyComplete
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\obj\Debug\Repository-Pattern-Challenge.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\Repository-Pattern-Challenge\obj\Debug\Repository-Pattern-Challenge.pdb

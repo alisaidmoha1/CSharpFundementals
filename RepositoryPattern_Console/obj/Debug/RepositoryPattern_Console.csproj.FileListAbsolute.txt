@@ -1,0 +1,10 @@
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\bin\Debug\RepositoryPattern_Console.exe.config
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\bin\Debug\RepositoryPattern_Console.exe
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\bin\Debug\RepositoryPattern_Console.pdb
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\obj\Debug\RepositoryPattern_Console.csproj.AssemblyReference.cache
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\obj\Debug\RepositoryPattern_Console.csproj.CoreCompileInputs.cache
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\obj\Debug\RepositoryPattern_Console.exe
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\obj\Debug\RepositoryPattern_Console.pdb
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\bin\Debug\RepositoryPattern_Repository-Challenge.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\bin\Debug\RepositoryPattern_Repository-Challenge.pdb
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Console\obj\Debug\RepositoryPattern_Console.csproj.CopyComplete

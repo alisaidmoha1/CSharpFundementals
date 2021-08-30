@@ -1,0 +1,6 @@
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Repository-Challenge\bin\Debug\RepositoryPattern_Repository-Challenge.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Repository-Challenge\bin\Debug\RepositoryPattern_Repository-Challenge.pdb
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Repository-Challenge\obj\Debug\RepositoryPattern_Repository-Challenge.csproj.AssemblyReference.cache
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Repository-Challenge\obj\Debug\RepositoryPattern_Repository-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Repository-Challenge\obj\Debug\RepositoryPattern_Repository-Challenge.dll
+C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\RepositoryPattern_Repository-Challenge\obj\Debug\RepositoryPattern_Repository-Challenge.pdb

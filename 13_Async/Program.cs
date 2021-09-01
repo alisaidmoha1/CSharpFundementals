@@ -32,6 +32,7 @@ namespace _13_Async
                 Console.WriteLine("Waiting on fries.");
 
             //Synchronous, but can't start untill our fries Task<> is finished because we need the result.
+            //.Result is the actual object back.
             kitchen.ServeMeal(fries.Result, hamburger);
             Console.ReadKey();
 

@@ -1,0 +1,2 @@
+ALTER TABLE Ratings
+DROP COLUMN UserId

@@ -31,7 +31,8 @@ namespace _13_Async
         //Synchronous (cant do other tasks during)
         public Hamburger AssembleHambumger()
         {
-            var time = 1000;
+            Random randy = new Random();
+            var time = randy.Next(900, 2000);
             PrettyPrint("Assembling the burger", 13);
             PrettyPrint("Set the bun down", 4);
             Task.Delay(time).Wait();
@@ -64,6 +65,18 @@ namespace _13_Async
             }
         }
 
+        // Recursive method, runs itself until satisfied
+
+        public int AddTwo(int a)
+        {
+            int result = a + 2;
+            if (result == 100)
+            {
+                return result;
+            }
+            else
+                return AddTwo(a);
+        }
 
         //Helper Method
 

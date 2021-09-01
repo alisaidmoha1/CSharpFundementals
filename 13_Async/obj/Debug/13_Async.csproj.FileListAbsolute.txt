@@ -1,7 +1,0 @@
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\13_Async\bin\Debug\13_Async.exe.config
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\13_Async\bin\Debug\13_Async.exe
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\13_Async\bin\Debug\13_Async.pdb
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\13_Async\obj\Debug\13_Async.csproj.AssemblyReference.cache
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\13_Async\obj\Debug\13_Async.csproj.CoreCompileInputs.cache
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\13_Async\obj\Debug\13_Async.exe
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\13_Async\obj\Debug\13_Async.pdb

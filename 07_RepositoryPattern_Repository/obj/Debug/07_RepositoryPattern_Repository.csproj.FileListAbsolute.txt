@@ -1,6 +1,0 @@
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\07_RepositoryPattern_Repository\bin\Debug\07_RepositoryPattern_Repository.dll
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\07_RepositoryPattern_Repository\bin\Debug\07_RepositoryPattern_Repository.pdb
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\07_RepositoryPattern_Repository\obj\Debug\07_RepositoryPattern_Repository.csproj.AssemblyReference.cache
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\07_RepositoryPattern_Repository\obj\Debug\07_RepositoryPattern_Repository.csproj.CoreCompileInputs.cache
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\07_RepositoryPattern_Repository\obj\Debug\07_RepositoryPattern_Repository.dll
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\07_RepositoryPattern_Repository\obj\Debug\07_RepositoryPattern_Repository.pdb

@@ -1,9 +1,0 @@
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\08_StreamingContent_Inhertance\bin\Debug\08_StreamingContent_Inhertance.dll
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\08_StreamingContent_Inhertance\bin\Debug\08_StreamingContent_Inhertance.pdb
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\08_StreamingContent_Inhertance\bin\Debug\07_RepositoryPattern_Repository.dll
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\08_StreamingContent_Inhertance\bin\Debug\07_RepositoryPattern_Repository.pdb
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\08_StreamingContent_Inhertance\obj\Debug\08_StreamingContent_Inhertance.csproj.AssemblyReference.cache
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\08_StreamingContent_Inhertance\obj\Debug\08_StreamingContent_Inhertance.csproj.CoreCompileInputs.cache
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\08_StreamingContent_Inhertance\obj\Debug\08_StreamingContent_Inhertance.csproj.CopyComplete
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\08_StreamingContent_Inhertance\obj\Debug\08_StreamingContent_Inhertance.dll
-C:\Users\Saed\OneDrive\Desktop\ElevenFiftyProjects\100SD\CSharpFundementals\08_StreamingContent_Inhertance\obj\Debug\08_StreamingContent_Inhertance.pdb

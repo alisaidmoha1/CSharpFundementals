@@ -17,8 +17,8 @@ namespace GeneralStoreApi.Models
         public int CustomerId { get; set; }
 
         // this is not storing in the database
-        public virtual Product product { get; set; }
-        public virtual Customer customer { get; set; }
+        public virtual Product Product { get; set; }
+        public virtual Customer Customer { get; set; }
 
         public DateTime DateOfTransaction { get; set; }
         public int Quantity { get; set; }
